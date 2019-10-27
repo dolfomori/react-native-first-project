@@ -18,6 +18,9 @@ module.exports = {
   },
   plugins: ["react", "prettier"],
   rules: {
+    "react/sort-comp": "off",
+    "react/state-in-constructor": "off",
+    "react/static-property-placement": "off",
     "prettier/prettier": "error",
     "react/jsx-filename-extension": ["warn", { extensions: [".js", ".jsx"] }],
     "import/prefer-default-export": "off"
