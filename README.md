@@ -1,5 +1,8 @@
 # Github My Favorites :star:	
 
+<h4 align="center">
+Find your friends on github, keep them favorite and see their projects.
+</h4>
 
 ## Technologies
 
