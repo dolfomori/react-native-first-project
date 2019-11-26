@@ -3,6 +3,8 @@
 <h4 align="center">
 Find your friends on github, keep them favorite and see their projects.
 </h4>
+<p align="center">
+</p>
 
 ## Technologies
 
