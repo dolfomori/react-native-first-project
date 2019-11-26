@@ -1,4 +1,4 @@
-# Github My Favorites :star:	
+<h1 align="center">Github My Favorites :star:	</h1>
 
 <h4 align="center">
 Find your friends on github, keep them favorite and see their projects.
